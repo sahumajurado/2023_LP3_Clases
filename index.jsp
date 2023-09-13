@@ -3,6 +3,8 @@
 <head>
 </head>
 <body>
-    Bienvenidos... al sistema
+    <form>
+        <input type="Text" name="Nombre"/>
+    </form>
 </body>
 </html>
